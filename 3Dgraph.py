@@ -1,3 +1,4 @@
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -16,7 +17,6 @@ ax.set_xlabel('Price')
 ax.set_ylabel('Quantity')
 ax.set_zlabel('Amount')
 plt.show()
-
 
 
 
