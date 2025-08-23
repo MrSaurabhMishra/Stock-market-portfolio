@@ -16,11 +16,14 @@ This portfolio showcases **real-world stock market analytics** using Python, Pow
 Data is collected from **Yahoo Finance via `yfinance`**, covering major Indian stock symbols and indices.
 
 The portfolio demonstrates:  
-- Extracting live stock market data using Python `yfinance`  
-- Cleaning and preparing datasets for analysis  
-- Conducting exploratory data analysis (EDA) on stock trends and volatility  
-- Building interactive dashboards in Power BI for decision-making  
-- Using SQL to generate insights from stock data
+- 📈 Extracting live stock market data using Python `yfinance` for the following symbols:  
+  - **NSE:** TCS, INFY, RELIANCE, HDFC  
+  - **BSE:** ITC, SBI, ICICI  
+  - **Indices:** Nifty 50, Sensex  
+- 🧹 Cleaning and preparing these datasets for analysis  
+- 🔍 Conducting exploratory data analysis (EDA) on stock trends, volatility, and price movement patterns for the selected symbols  
+- 📊 Building interactive dashboards in Power BI for decision-making using these stocks and indices  
+- 🗃️ Using SQL to generate insights from structured stock datasets covering the above symbols
 
 **Selected symbols & indices covered:**  
 - **NSE:** TCS, INFY, RELIANCE, HDFC  
@@ -87,12 +90,11 @@ Each section demonstrates a **complete workflow** from data extraction → clean
 
 ## 🎯 Problem Statements
 
-- How to collect and refresh live stock data using Python (`yfinance`)  
-- How to clean and preprocess stock market datasets  
-- How to analyze sector and index performance for selected symbols  
-- How to visualize stock market insights through interactive dashboards  
-- How to generate SQL-based insights for business decisions
-
+- 📈 How to collect and refresh live stock data using Python (`yfinance`)  
+- 🧹 How to clean and preprocess stock market datasets  
+- 🔍 How to analyze sector and index performance for selected symbols  
+- 📊 How to visualize stock market insights through interactive dashboards  
+- 🗃️ How to generate SQL-based insights for business decisions
 ---
 
 ## 📫 Connect
@@ -104,16 +106,6 @@ Each section demonstrates a **complete workflow** from data extraction → clean
 ---
 
 ✨ *This portfolio demonstrates end-to-end Stock Market Analytics using real-world data, combining data extraction, cleaning, visualization, and SQL-based insights for NSE, BSE, and key indices.*
-
-The portfolio demonstrates:  
-- Extracting live stock market data for selected symbols using Python `yfinance`  
-  - **NSE:** TCS, INFY, RELIANCE, HDFC  
-  - **BSE:** ITC, SBI, ICICI  
-  - **Indices:** Nifty 50, Sensex  
-- Cleaning and preparing these datasets for analysis  
-- Conducting exploratory data analysis (EDA) on stock trends, volatility, and price movement patterns  
-- Building interactive dashboards in Power BI for decision-making on selected stocks  
-- Using SQL to generate insights from structured stock datasets
 
 
 
