@@ -17,61 +17,31 @@ Data is collected from **Yahoo Finance via `yfinance`**, covering major Indian s
 
 The portfolio demonstrates:  
 - 📈 Extracting live stock market data using Python `yfinance` for the following symbols:  
-  - **NSE:** TCS, INFY, RELIANCE, HDFC  
-  - **BSE:** ITC, SBI, ICICI  
-  - **Indices:** Nifty 50, Sensex  
+  - **NSE:** TCS, INFY, RELIANCE, HDFC  etc.
 - 🧹 Cleaning and preparing these datasets for analysis  
 - 🔍 Conducting exploratory data analysis (EDA) on stock trends, volatility, and price movement patterns for the selected symbols  
 - 📊 Building interactive dashboards in Power BI for decision-making using these stocks and indices  
-- 🗃️ Using SQL to generate insights from structured stock datasets covering the above symbols
-
-**Selected symbols & indices covered:**  
-- **NSE:** TCS, INFY, RELIANCE, HDFC  
-- **BSE:** ITC, SBI, ICICI  
-- **Indices:** Nifty 50, Sensex
 
 ---
 
 ## 🚀 Projects
 
 ### 1️⃣ Real-Time Stock Market Dashboard
-- 📌 **Goal**: Build a Power BI dashboard that tracks live stock prices, indices, and volume for selected symbols:  
-  - **NSE:** TCS, INFY, RELIANCE, HDFC  
-  - **BSE:** ITC, SBI, ICICI  
-  - **Indices:** Nifty 50, Sensex  
-- ⚒️ **Tech Stack**: Python (`yfinance`, Pandas), Power BI  
-- 📷 **Preview**: *(Insert screenshot here)*
-
+- 📌 **Goal**: Build a Power BI dashboard that tracks live stock prices and volume for selected symbols:  
+  - **NSE:** TCS, INFY, RELIANCE, HDFC etc. 
+- ⚒️ **Tech Stack**: Python (`yfinance`, Pandas), Power BI
 ---
 
 ### 2️⃣ Stock Data Cleaning and EDA
-- 📌 **Goal**: Collect historical stock data using `yfinance`, clean datasets, handle missing values and outliers, and perform exploratory data analysis for the following symbols:  
-  - **NSE:** TCS, INFY, RELIANCE, HDFC  
-  - **BSE:** ITC, SBI, ICICI  
-  - **Indices:** Nifty 50, Sensex  
+- 📌 **Goal**: Collect historical stock data using `yfinance`, clean datasets, handle missing values and perform exploratory data analysis for the following symbols:  
+  - **NSE:** TCS, INFY, RELIANCE, HDFC etc.
 - ⚒️ **Tech Stack**: Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- 📷 **Preview**: *(Insert charts/visualizations here)*
-
 ---
 
 ### 3️⃣ Sector and Index Performance Analysis
 - 📌 **Goal**: Analyze sector-wise performance and compare major indices to identify market trends for the following symbols:  
-  - **NSE:** TCS, INFY, RELIANCE, HDFC  
-  - **BSE:** ITC, SBI, ICICI  
-  - **Indices:** Nifty 50, Sensex  
-- ⚒️ **Tech Stack**: Python (`yfinance`, Pandas), SQL  
-- 📷 **Preview**: *(Insert chart here)*
-
----
-
-### 4️⃣ SQL-Based Stock Market Insights
-- 📌 **Goal**: Generate insights using SQL queries on structured stock datasets for selected symbols:  
-  - **NSE:** TCS, INFY, RELIANCE, HDFC  
-  - **BSE:** ITC, SBI, ICICI  
-  - **Indices:** Nifty 50, Sensex  
-- ⚒️ **Tech Stack**: SQL (PostgreSQL/MySQL)  
-- 📷 **Preview**: *(Insert SQL query output screenshot)*
-
+  - **NSE:** TCS, INFY, RELIANCE, HDFC etc.
+- ⚒️ **Tech Stack**: Python (`yfinance`, Pandas), MySQL 
 ---
 
 ## 📂 Portfolio Structure
@@ -81,7 +51,6 @@ The portfolio demonstrates:
 ┣ 📂 notebooks # Jupyter notebooks for Python analysis
 ┣ 📂 dashboards # Power BI dashboard files
 ┣ 📂 scripts # Python scripts for data extraction & automation
-┣ 📜 README.md # Project documentation
 
 
 Each section demonstrates a **complete workflow** from data extraction → cleaning → analysis → visualization.
@@ -96,12 +65,37 @@ Each section demonstrates a **complete workflow** from data extraction → clean
 - 📊 How to visualize stock market insights through interactive dashboards  
 - 🗃️ How to generate SQL-based insights for business decisions
 ---
+## 🎯 Objective
+
+The objective of this analysis is to **evaluate and monitor the performance of the stock market** by:  
+
+- 📈 Collecting **live stock data**  
+- 🧹 **Cleaning and preprocessing** the data  
+- 🔍 Analyzing **trends across stocks**  
+
+The study aims to:  
+- 💡 Generate **actionable insights** through interactive visualizations 
+- ⚡ Support **informed business and investment decisions**  
+- 🔄 Automate the **data refresh process** to maintain up-to-date market information for timely analysis
+  ---
+
+  ## 🌟 Future Scope
+
+### 📊 Advanced Analytics
+- 🤖 Incorporate **machine learning models** for stock price prediction, risk scoring, and sector performance forecasting.  
+- 📰 Apply **sentiment analysis** on news and social media to understand market sentiment.  
+
+### 💼 Portfolio Optimization
+- ⚖️ Build **automated recommendation systems** for portfolio diversification based on risk-return profiles.  
+- 📊 Suggest **buying/selling points** using technical indicators.  
+- 🔔 Add **predictive alerts and notifications** for investors.
+---
 
 ## 📫 Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
 🐙 [GitHub](https://github.com/yourusername)  
-📧 yourmail@gmail.com
+📧 saurabhmishra1042@gmail.com
 
 ---
 
