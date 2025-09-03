@@ -2,9 +2,9 @@ Stock Market Analytics Portfolio
 
 # 📊 Stock Market Analytics Portfolio
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboards-yellow?logo=powerbi)
-![SQL](https://img.shields.io/badge/SQL-Queries-orange?logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-Queries-orange?logo=MySQL)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
 ![yfinance](https://img.shields.io/badge/Data-yfinance-lightgrey?logo=yahoo)
 
